@@ -1,3 +1,1 @@
-console.log("THIS IS MY COMPLEX APP!")
-console.log("ANOTHER LINE!!!")
-kjhdjtfdjfjwtfhtdwhrdhrgdw
+console.log("THIS IS MY COMPLEX APP")
